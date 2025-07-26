@@ -1,4 +1,4 @@
-📊 Employee Performance Dashboard – Power BI
+# 📊 Employee Performance Dashboard – Power BI
 
 This repository showcases a professional HR Analytics Dashboard built using Power BI, designed to evaluate and visualize employee performance metrics for effective workforce management and strategic HR decision-making.
 
